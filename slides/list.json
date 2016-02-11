@@ -1,1 +1,16 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "hakkimda.md",
+        "hakkimda-1.md",
+        "hakkimda-2.md",
+        "hakkimda-3.md",
+        "hakkimda-4.md"
+    ],
+    [
+      "projelerim.md",
+      "projelerim-1.md",
+      "projelerim-2.md",
+      "projelerim-3.md"
+    ]
+]
